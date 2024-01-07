@@ -1,10 +1,10 @@
 <img src="./readmeAssets/capa_readme.svg" width="100%"/>
 <h1>
   <img src="./readmeAssets/logo_readme.svg" align="right" width="310px"/>
-  🔺Treinamento Técnico 2023.2🔺
+  🔺Treinamento Técnico 2024.1🔺
 </h1>
 
-Este repositório é dedicado ao projeto construído pelos intrutores desenvolvedores do Treinamento Técnico de 2023.2 ofertado pela EJCM🏯.
+Este repositório é dedicado ao projeto construído pelos intrutores desenvolvedores do Treinamento Técnico de 2024.1 ofertado pela EJCM🏯.
 O projeto desenvolvido neste treinamento foi o **Gakalu Games**, que por sua vez foi criado no treinamento técnico passado por um time de Designers
 e suas informações são descritas mais abaixo.
 
